@@ -10,7 +10,8 @@ export type Comp2Props = {
 export function Comp2({ children }: Comp2Props) {
   return (
     <div>
-      <p>dsagdsagdsa</p>
+      <p>dsagdsagThis is gonna be changed
+        sa</p>
       {children}
     </div>
   );
